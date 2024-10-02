@@ -1156,7 +1156,7 @@ body.nav-active { overflow: hidden; }
 .educms-download-marquee-content-items::after {
   content: attr(data-content);
   display: inline-block;
-  margin-left: 30px; /* Space between repeated content */
+  margin-left: 30px; /* Space between repeated content */ 
 }
 
 /* List Items Styling */
@@ -1177,7 +1177,7 @@ body.nav-active { overflow: hidden; }
 
 .bordr-content {
   border-left: 1px solid #ddd;
-  margin-left: 20px;
+  margin-left: 60px;
   padding-left: 20px;
 }
 
